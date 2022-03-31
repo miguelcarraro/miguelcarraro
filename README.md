@@ -1,6 +1,6 @@
 ## Oi, eu sou o Miguel Carraro! 👋
 
-- 🌱 Atualmente tenho estudado bastante HTML5 e Python
+- 🌱 Atualmente tenho estudado bastante HTML5, Python e iniciando em CSS.
 - 📫 Me contatem pelo e-mail: miguelcarraromoya@gmail.com
 - 😄 Pronomes: Ele/dele
 
