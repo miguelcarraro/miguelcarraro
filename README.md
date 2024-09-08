@@ -1,8 +1,8 @@
 ## Oi, eu sou o Miguel Carraro! 👋
 
 - 🌱 Atualmente tenho estudado bastante HTML5, Python e iniciando em CSS.
-- 📫 Me contatem pelo e-mail: miguelcarraromoya@gmail.com
-- 😄 Pronomes: Ele/dele
+- 📫 Me contatem pelo e-mail: miguelcarraromoya@gmail.com.
+- 😄 Pronomes: Ele/dele.
 
 <div align="center">
   <a href="https://github.com/miguelcarraro">
@@ -12,9 +12,13 @@
   
   ##
   
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Miguel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+   <img align="center" alt="Miguel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
+      
   
   ##
   
