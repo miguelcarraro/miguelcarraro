@@ -1,6 +1,6 @@
 ## Oi, eu sou o Miguel Carraro! 👋
 
-- 🌱 Atualmente tenho estudado bastante HTML5, Python e iniciando em CSS.
+- 🌱 Atualmente tenho estudado bastante Java.
 - 📫 Me contatem pelo e-mail: miguelcarraromoya@gmail.com.
 - 😄 Pronomes: Ele/dele.
 
@@ -17,7 +17,10 @@
    <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Miguel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
    <img align="center" alt="Miguel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+   <img align="center" alt="Miguel-Java" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
+      
+                
       
   
   ##
