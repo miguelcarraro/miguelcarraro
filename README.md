@@ -1,6 +1,6 @@
 ## Oi, eu sou o Miguel Carraro! 👋
 
-- 🌱 Atualmente tenho estudado bastante Java.
+- 🌱 Atualmente tenho estudado bastante Python.
 - 📫 Me contatem pelo e-mail: miguelcarraromoya@gmail.com.
 - 😄 Pronomes: Ele/dele.
 
